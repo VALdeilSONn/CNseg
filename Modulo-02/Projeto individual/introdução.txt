@@ -1,7 +1,0 @@
-Introdução: Acompanhamento de Parcerias Empresariais
-
-Neste conjunto de comandos SQL, está delineado um esquema de banco de dados desenvolvido para acompanhar e gerenciar parcerias entre empresas. O principal propósito é estabelecer uma estrutura organizada para o tratamento eficiente de dados, facilitando a troca de informações relacionadas às operações e atividades das empresas colaboradoras.
-
-As principais entidades presentes neste banco de dados são quatro: Empresa_Parceira, Colaborador, Tecnologia e Departamento. Por exemplo, na tabela Empresa_Parceira, são registradas informações fundamentais sobre as empresas parceiras, como nome, endereço, CNPJ e contato. Similarmente, a tabela Colaborador detalha informações sobre os funcionários das empresas parceiras, incluindo nome, data de contratação e cargo em departamentos específicos. A tabela Tecnologia acompanha as tecnologias utilizadas pelas empresas, fornecendo detalhes sobre sua área de aplicação e os responsáveis por sua implementação. Por último, mas não menos importante, a tabela Departamento supervisiona os diferentes setores dentro das organizações, auxiliando na gestão das equipes e atividades.
-
-Esse esquema de banco de dados foi concebido para oferecer uma estrutura clara e adaptável, visando simplificar o gerenciamento de informações relacionadas às parcerias empresariais e promover uma colaboração eficiente entre as organizações envolvidas.
