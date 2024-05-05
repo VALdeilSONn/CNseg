@@ -1,8 +1,8 @@
 # Módulo 02: Aprofundando no PostgreSQL e Melhores Práticas
 
-Neste módulo, concentraremos nossos esforços em aprimorar nossas habilidades na linguagem PostgreSQL, explorando suas melhores práticas e técnicas avançadas. Nosso objetivo é alcançar um conhecimento mais abrangente e técnico sobre este sistema de gerenciamento de banco de dados relacional.
+Neste módulo, concentrarei meus esforços em aprimorar as habilidades na linguagem PostgreSQL, explorando as melhores práticas e técnicas avançadas. Meu objetivo é alcançar um conhecimento mais abrangente e técnico sobre este sistema de gerenciamento de banco de dados relacional.
 
-Durante este período de estudo, estaremos colocando em prática nossos conhecimentos técnicos para registrar e solidificar nossa experiência adquirida. Isso nos permitirá alcançar um nível mais elevado de proficiência na manipulação de dados e na gestão de bancos de dados utilizando o PostgreSQL.
+Durante este período de estudo, estarei colocando em prática meu conhecimentos técnico para registrar e solidificar minha experiência adquirida. Isso me permitirá alcançar um nível mais elevado de proficiência na manipulação de dados e na gestão de bancos de dados utilizando o PostgreSQL.
 
 ## O Que Esperar?
 
@@ -21,4 +21,4 @@ Durante este período de estudo, estaremos colocando em prática nossos conhecim
 
 ## Próximos Passos
 
-Prepare-se para mergulhar em uma jornada de aprendizado enriquecedora e desafiadora, onde cada conceito explorado nos levará um passo mais perto de nos tornarmos especialistas em PostgreSQL. Esteja pronto para se envolver ativamente, experimentar e aplicar os conhecimentos adquiridos para alcançar resultados tangíveis e significativos em nosso percurso de aprendizagem.
+Prepare-se para mergulhar em uma jornada de aprendizado enriquecedora e desafiadora, onde cada conceito explorado nos levará um passo mais perto de me tornar especialista em PostgreSQL.
