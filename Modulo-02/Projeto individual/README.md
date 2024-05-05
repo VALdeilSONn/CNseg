@@ -1,7 +1,3 @@
-# Trabalho de SQL - Sistema de Empresas Parceiras
-
-Este é um trabalho de SQL que cria um banco de dados para um sistema de empresas parceiras. O banco de dados inclui tabelas para empresas parceiras, colaboradores, tecnologias e departamentos.
-
 # Modelo de Banco de Dados para Empresas Parceiras
 
 Este é um modelo de banco de dados para gerenciamento de empresas parceiras, colaboradores, tecnologias utilizadas e departamentos. Abaixo estão as respostas para algumas perguntas frequentes sobre o modelo.
