@@ -14,7 +14,7 @@ CREATE TABLE Empresa_Parceira(
     Telefone VARCHAR(15),
     Email VARCHAR(100)
 );
-![Texto Alternativo](url_da_imagem)
+![Texto Alternativo](https://github.com/VALdeilSONn/CNseg/blob/main/Modulo-02/Projeto%20individual/img/CriandoTabela.jpg)
 
 ### Tabela Colaborador 
 
@@ -31,7 +31,7 @@ CREATE TABLE Colaborador(
     FOREIGN KEY (Departamento_Id) REFERENCES Departamento(IdDepartamento),
     FOREIGN KEY (IdEmpre_Parce) REFERENCES Empresa_Parceira(IdEmpre_Parce)
 );
-![Texto Alternativo](url_da_imagem)
+![Texto Alternativo](https://github.com/VALdeilSONn/CNseg/blob/main/Modulo-02/Projeto%20individual/img/CriandoColaborador.jpg)
 
 ### Tabela Tecnologia
 
@@ -48,7 +48,7 @@ CREATE TABLE Tecnologia(
     FOREIGN KEY (IdEmpre_Parce) REFERENCES Empresa_Parceira(IdEmpre_Parce),
     FOREIGN KEY (IdColaborador) REFERENCES Colaborador(IdColaborador)
 );
-![Texto Alternativo](url_da_imagem)
+![Texto Alternativo](https://github.com/VALdeilSONn/CNseg/blob/main/Modulo-02/Projeto%20individual/img/CriandoTecnologia.jpg)
 
 ### Tabela Departamento
 
@@ -56,7 +56,7 @@ CREATE TABLE Departamento(
     IdDepartamento INT AUTO_INCREMENT PRIMARY KEY,
     Setor VARCHAR(50)
 );
-![Texto Alternativo](url_da_imagem)
+![Texto Alternativo](https://github.com/VALdeilSONn/CNseg/blob/main/Modulo-02/Projeto%20individual/img/CriandoDepartamento.jpg)
 
 _________________________________________________________________________________________________________
 
